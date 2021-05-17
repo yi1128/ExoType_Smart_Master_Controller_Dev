@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{68163477-659a-4f84-a439-8123e937f25e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{424cf834-f719-46d7-ad73-50af7e214e81}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TwinCAT UM Files">
+      <UniqueIdentifier>{89dcf8dd-18c9-464a-9a39-eb88106dc3f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TwinCAT RT Files">
+      <UniqueIdentifier>{76d44843-3f3d-42f5-9bcb-f42ca89fb7e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TMC Files">
+      <UniqueIdentifier>{3577ae19-e571-492b-a156-a0cc11bbb17e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TcPch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SmartControllerModuleTaskClassFactory.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SmartControllerModuleTaskInterfaces.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SmartControllerModuleTaskServices.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SmartControllerModuleTaskCtrl.h">
+      <Filter>TwinCAT UM Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SmartControllerModuleTaskDriver.h">
+      <Filter>TwinCAT RT Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ConvertClass.h" />
+    <ClInclude Include="Kinematics.h" />
+    <ClInclude Include="PIDControl.h" />
+    <ClInclude Include="SEATorqueControl.h" />
+    <ClInclude Include="TaskModule.h" />
+    <ClInclude Include="TaskModuleAds.h" />
+    <ClInclude Include="AlpopcLib.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AlteleoperationLib.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="TcPch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SmartControllerModuleTaskClassFactory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SmartControllerModuleTaskCtrl.cpp">
+      <Filter>TwinCAT UM Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SmartControllerModuleTaskW32.cpp">
+      <Filter>TwinCAT UM Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SmartControllerModuleTaskDriver.cpp">
+      <Filter>TwinCAT RT Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Kinematics.cpp" />
+    <ClCompile Include="PIDControl.cpp" />
+    <ClCompile Include="SEATorqueControl.cpp" />
+    <ClCompile Include="TaskModule.cpp" />
+    <ClCompile Include="AlpopcLib.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AlteleoperationLib.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="SmartControllerModuleTask.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="SmartControllerModuleTaskW32.def">
+      <Filter>TwinCAT UM Files</Filter>
+    </None>
+    <None Include="SmartControllerModuleTask.tmc">
+      <Filter>TMC Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Midl Include="SmartControllerModuleTaskW32.idl">
+      <Filter>TwinCAT UM Files</Filter>
+    </Midl>
+  </ItemGroup>
+</Project>

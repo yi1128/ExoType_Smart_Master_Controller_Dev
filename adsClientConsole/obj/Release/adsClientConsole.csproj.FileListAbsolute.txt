@@ -1,0 +1,6 @@
+C:\Users\TwinCAT PC\Desktop\새 폴더\SmartController\SmartControllerModule\adsClientConsole\bin\Release\adsClientConsole.exe.config
+C:\Users\TwinCAT PC\Desktop\새 폴더\SmartController\SmartControllerModule\adsClientConsole\bin\Release\adsClientConsole.exe
+C:\Users\TwinCAT PC\Desktop\새 폴더\SmartController\SmartControllerModule\adsClientConsole\bin\Release\adsClientConsole.pdb
+C:\Users\TwinCAT PC\Desktop\새 폴더\SmartController\SmartControllerModule\adsClientConsole\obj\Release\adsClientConsole.exe
+C:\Users\TwinCAT PC\Desktop\새 폴더\SmartController\SmartControllerModule\adsClientConsole\obj\Release\adsClientConsole.pdb
+C:\Users\TwinCAT PC\Desktop\새 폴더\SmartController\SmartControllerModule\adsClientConsole\obj\Release\adsClientConsole.csprojResolveAssemblyReference.cache

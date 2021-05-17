@@ -1,0 +1,8 @@
+﻿Build started 2020-09-22 오후 3:02:24.
+     1>Project "C:\Users\SmartController\Desktop\SmartControllerModule\SmartControllerModule\SmartControllerModuleTask\SmartControllerModuleTask.vcxproj" on node 2 (Build target(s)).
+     1>C:\Users\SmartController\Desktop\SmartControllerModule\SmartControllerModule\SmartControllerModuleTask\SmartControllerModuleTask.vcxproj : error MSB4057: The target "Build" does not exist in the project.
+     1>Done Building Project "C:\Users\SmartController\Desktop\SmartControllerModule\SmartControllerModule\SmartControllerModuleTask\SmartControllerModuleTask.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.00

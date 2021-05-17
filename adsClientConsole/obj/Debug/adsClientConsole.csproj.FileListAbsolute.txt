@@ -1,0 +1,12 @@
+C:\Users\TwinCAT PC\Desktop\새 폴더\SmartController\SmartControllerModule\adsClientConsole\bin\Debug\adsClientConsole.exe.config
+C:\Users\TwinCAT PC\Desktop\새 폴더\SmartController\SmartControllerModule\adsClientConsole\bin\Debug\adsClientConsole.exe
+C:\Users\TwinCAT PC\Desktop\새 폴더\SmartController\SmartControllerModule\adsClientConsole\bin\Debug\adsClientConsole.pdb
+C:\Users\TwinCAT PC\Desktop\새 폴더\SmartController\SmartControllerModule\adsClientConsole\obj\Debug\adsClientConsole.csprojResolveAssemblyReference.cache
+C:\Users\TwinCAT PC\Desktop\새 폴더\SmartController\SmartControllerModule\adsClientConsole\obj\Debug\adsClientConsole.exe
+C:\Users\TwinCAT PC\Desktop\새 폴더\SmartController\SmartControllerModule\adsClientConsole\obj\Debug\adsClientConsole.pdb
+C:\Users\SmartController\Desktop\SmartControllerModule\adsClientConsole\bin\Debug\adsClientConsole.exe.config
+C:\Users\SmartController\Desktop\SmartControllerModule\adsClientConsole\bin\Debug\adsClientConsole.exe
+C:\Users\SmartController\Desktop\SmartControllerModule\adsClientConsole\bin\Debug\adsClientConsole.pdb
+C:\Users\SmartController\Desktop\SmartControllerModule\adsClientConsole\obj\Debug\adsClientConsole.csprojResolveAssemblyReference.cache
+C:\Users\SmartController\Desktop\SmartControllerModule\adsClientConsole\obj\Debug\adsClientConsole.exe
+C:\Users\SmartController\Desktop\SmartControllerModule\adsClientConsole\obj\Debug\adsClientConsole.pdb
